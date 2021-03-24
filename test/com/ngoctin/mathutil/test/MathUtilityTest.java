@@ -20,7 +20,7 @@ public class MathUtilityTest {
     @Test
     public void testFactorialGivenRightArgumentReturnsGoodResult() {
         int n = 6; // tui muon test 5! co dung la 120 hay khong ?
-        long expected = 120;
+        long expected = 720;
         long actual = getFacotial(6);
         assertEquals(expected, actual);
         // Minh test tiep nhung truong hop khac, dung dau vao, dung dau ra
