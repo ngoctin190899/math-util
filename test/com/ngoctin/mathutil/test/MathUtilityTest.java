@@ -30,9 +30,6 @@ public class MathUtilityTest {
         assertEquals(6, getFacotial(3));
         assertEquals(1, getFacotial(1));
         assertEquals(1, getFacotial(0));
-        getFacotial(-5);
-        getFacotial(21);
-        getFacotial(40);
     }
 
     // dieu gi xay ra neu ta dua vao tham so ca chon, am hoac > 20
