@@ -2,6 +2,8 @@
 <<<<<<< HEAD
 This is repro offers various math methods used as a helper for your project. 
 
+[![MathUtil | Demo CI Process | © 2021 by ngoctin190899](https://github.com/ngoctin190899/math-util/actions/workflows/matutil-ci.yml/badge.svg)](https://github.com/ngoctin190899/math-util/actions/workflows/matutil-ci.yml)
+
 ## _You will find in this repo the following stuff:_
 
 * .gitignore itself to demostrate how Git tool with upload a file or not 
