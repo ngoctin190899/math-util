@@ -34,7 +34,8 @@ public class Main {
         long expected = 120;
         long actual = MathUtility.getFacotial(n);
         if (actual == expected) {
-            System.out.println("Right !");
+            System.out.println("6! expected : " + expected + ";"
+                    + " actual : " + actual);
         } else {
             System.out.println("6! expected : " + expected + ";"
                     + " actual : " + actual);
@@ -45,7 +46,8 @@ public class Main {
         expected = 1;
         actual = MathUtility.getFacotial(n);
         if (actual == expected) {
-            System.out.println("Right !");
+                        System.out.println("1! expected : " + expected + ";"
+                    + " actual : " + actual);
         } else {
             System.out.println("6! expected : " + expected + ";"
                     + " actual : " + actual);
@@ -73,10 +75,8 @@ public class Main {
     // May se lo cho
     // Neu tat ca tinh huong chay ham deu dung -> ham dung -> mau xanh
     // Hau het deu dung, co mot cai sai -> ham sai -> mau do
-    
     // Do : Chi can mot thang sai
     // Xanh : Tat ca de phai dung
-    
     // Muon lam dc dieu nay ta can vien phu tro giup cho java xanh do
     // Dieu nay cung co ben C#, PHP, JS, RUBY , .... 
     // Java : Junit , TestNG

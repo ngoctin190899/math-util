@@ -35,7 +35,7 @@ public class MathUtilityTest {
     // dieu gi xay ra neu ta dua vao tham so ca chon, am hoac > 20
     // theo thiet ke cua ham`, dua vao ca chon se nem ra ngoai le
     // va ta can test xem ngoai le co dc nem ra khong ? neu ra ca` chon
-    // ntuc la thay xuat hien ngoai le neu co ca chon dua vao
+    // ntuc la thay xuat hien ng    oai le neu co ca chon dua vao
     @Test(expected = IllegalArgumentException.class)
     // Co dung la khi lam ham nay nem ra ngoai le ten la IllegalArgument
     // Neu dung no nem ra ngoai le cung ten, code dung roi, xanh thoi
